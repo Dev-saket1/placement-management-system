@@ -1,7 +1,8 @@
 # placement-management-system
                       FOR ADMIN
 
-`YOU CAN LOGIN TO THE ADMIN PAGE USING FOLLOWING USER NAME AMD PASSWORD:=
+`YOU CAN LOGIN TO THE ADMIN PAGE USING FOLLOWING USER NAME AMD PASSWORD
+
 USER NAME- name
 PASSWORD:- password
                                         
